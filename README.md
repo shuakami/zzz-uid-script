@@ -223,3 +223,37 @@ The developers reserve the right to modify, suspend, or discontinue the Script a
 <p align="center">
   Developed with ❤️ by Shuakami<SdjzWiki>
 </p>
+
+---
+# Technology Stack
+
+| Library Name      | Description                        | Link                                                         |
+|-------------------|------------------------------------|--------------------------------------------------------------|
+| os                | File and directory operations      | [os](https://docs.python.org/3/library/os.html)              |
+| sys               | Access Python interpreter variables| [sys](https://docs.python.org/3/library/sys.html)            |
+| time              | Access and conversions for time    | [time](https://docs.python.org/3/library/time.html)          |
+| subprocess        | Running external programs          | [subprocess](https://docs.python.org/3/library/subprocess.html) |
+| traceback         | Track exception information        | [traceback](https://docs.python.org/3/library/traceback.html)|
+| random            | Generate random numbers            | [random](https://docs.python.org/3/library/random.html)      |
+| threading         | Multithreading programming         | [threading](https://docs.python.org/3/library/threading.html)|
+| logging           | Logging functionality              | [logging](https://docs.python.org/3/library/logging.html)    |
+| requests          | HTTP library for making requests   | [requests](https://docs.python-requests.org/)                |
+| urllib.request    | URL handling module                | [urllib.request](https://docs.python.org/3/library/urllib.request.html) |
+| cv2 (OpenCV)      | Computer vision library            | [OpenCV](https://opencv.org/)                                |
+| PIL (Pillow)      | Image processing library           | [Pillow](https://python-pillow.org/)                         |
+| numpy             | Large array processing and computations | [numpy](https://numpy.org/)                                |
+| pytesseract       | Python interface to Tesseract OCR  | [pytesseract](https://pypi.org/project/pytesseract/)         |
+| paddleocr         | OCR tools based on PaddlePaddle    | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)       |
+| pyautogui         | GUI automation                     | [pyautogui](https://pyautogui.readthedocs.io/)               |
+| keyboard          | Keyboard events listening and handling | [keyboard](https://pypi.org/project/keyboard/)           |
+| pygetwindow       | Window management                  | [PyGetWindow](https://pypi.org/project/PyGetWindow/)         |
+| json              | JSON encoding and decoding         | [json](https://docs.python.org/3/library/json.html)          |
+| re                | Regular expression operations      | [re](https://docs.python.org/3/library/re.html)              |
+| atexit            | Cleanup actions on program exit    | [atexit](https://docs.python.org/3/library/atexit.html)      |
+| importlib.util    | Dynamic module loading             | [importlib.util](https://docs.python.org/3/library/importlib.html#module-importlib.util) |
+| zipfile           | ZIP file manipulation              | [zipfile](https://docs.python.org/3/library/zipfile.html)    |
+| psutil            | System monitoring                  | [psutil](https://psutil.readthedocs.io/en/latest/)           |
+| logging.handlers  | Handling for logging               | [logging.handlers](https://docs.python.org/3/library/logging.handlers.html) |
+
+---
+> This repository will be archived on July 4, 2024, at 02:00 UTC.
