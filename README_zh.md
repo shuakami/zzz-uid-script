@@ -224,3 +224,39 @@
 <p align="center">
   Developed with ❤️ by Shuakami<SdjzWiki>
 </p>
+
+---
+
+# 技术栈
+
+
+| 库名称            | 描述                          | 链接                                                          |
+|-------------------|-------------------------------|---------------------------------------------------------------|
+| os                | 文件和目录操作                | [os](https://docs.python.org/3/library/os.html)               |
+| sys               | 访问与Python解释器关联的变量  | [sys](https://docs.python.org/3/library/sys.html)             |
+| time              | 时间访问和转换                | [time](https://docs.python.org/3/library/time.html)           |
+| subprocess        | 运行外部程序                  | [subprocess](https://docs.python.org/3/library/subprocess.html)|
+| traceback         | 跟踪异常信息                  | [traceback](https://docs.python.org/3/library/traceback.html) |
+| random            | 生成随机数                    | [random](https://docs.python.org/3/library/random.html)       |
+| threading         | 多线程编程                    | [threading](https://docs.python.org/3/library/threading.html) |
+| logging           | 日志记录                      | [logging](https://docs.python.org/3/library/logging.html)     |
+| requests          | HTTP请求库                    | [requests](https://docs.python-requests.org/)                 |
+| urllib.request    | URL处理模块                   | [urllib.request](https://docs.python.org/3/library/urllib.request.html) |
+| cv2 (OpenCV)      | 计算机视觉库                  | [OpenCV](https://opencv.org/)                                 |
+| PIL (Pillow)      | 图像处理库                    | [Pillow](https://python-pillow.org/)                          |
+| numpy             | 大型数组的处理与运算          | [numpy](https://numpy.org/)                                   |
+| pytesseract       | Tesseract-OCR工具的Python接口 | [pytesseract](https://pypi.org/project/pytesseract/)          |
+| paddleocr         | 基于PaddlePaddle的OCR工具     | [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)        |
+| pyautogui         | GUI自动化                     | [pyautogui](https://pyautogui.readthedocs.io/)                |
+| keyboard          | 键盘事件监听和处理            | [keyboard](https://pypi.org/project/keyboard/)                |
+| pygetwindow       | 窗口管理                      | [PyGetWindow](https://pypi.org/project/PyGetWindow/)          |
+| json              | JSON编码和解码                | [json](https://docs.python.org/3/library/json.html)           |
+| re                | 正则表达式                    | [re](https://docs.python.org/3/library/re.html)               |
+| atexit            | 程序关闭时的清理工作          | [atexit](https://docs.python.org/3/library/atexit.html)       |
+| importlib.util    | 动态加载模块                  | [importlib.util](https://docs.python.org/3/library/importlib.html#module-importlib.util) |
+| zipfile           | ZIP文件处理                   | [zipfile](https://docs.python.org/3/library/zipfile.html)     |
+| psutil            | 系统监控                      | [psutil](https://psutil.readthedocs.io/en/latest/)            |
+| logging.handlers  | 日志处理                      | [logging.handlers](https://docs.python.org/3/library/logging.handlers.html) |
+---
+
+> 本仓库将在 2024年7月4日 10:00 (GMT+8) 归档
